@@ -1,4 +1,4 @@
-# valkyrie
+# Valkyrie
 
 A new Flutter application.
 
